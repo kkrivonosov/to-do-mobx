@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/to-do-mobx/static/css/main.39146410.chunk.css",
+    "main.js": "/to-do-mobx/static/js/main.620b5a50.chunk.js",
+    "main.js.map": "/to-do-mobx/static/js/main.620b5a50.chunk.js.map",
+    "runtime-main.js": "/to-do-mobx/static/js/runtime-main.bd7ba971.js",
+    "runtime-main.js.map": "/to-do-mobx/static/js/runtime-main.bd7ba971.js.map",
+    "static/js/2.268e9c70.chunk.js": "/to-do-mobx/static/js/2.268e9c70.chunk.js",
+    "static/js/2.268e9c70.chunk.js.map": "/to-do-mobx/static/js/2.268e9c70.chunk.js.map",
+    "index.html": "/to-do-mobx/index.html",
+    "static/css/main.39146410.chunk.css.map": "/to-do-mobx/static/css/main.39146410.chunk.css.map",
+    "static/js/2.268e9c70.chunk.js.LICENSE.txt": "/to-do-mobx/static/js/2.268e9c70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd7ba971.js",
+    "static/js/2.268e9c70.chunk.js",
+    "static/css/main.39146410.chunk.css",
+    "static/js/main.620b5a50.chunk.js"
+  ]
+}
